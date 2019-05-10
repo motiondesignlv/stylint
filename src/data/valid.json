@@ -774,6 +774,7 @@
         ":nth-last-of-type",
         "::nth-of-type",
         ":nth-of-type",
+        "::ng-deep",
         "::only-child",
         ":only-child",
         "::only-of-type",
